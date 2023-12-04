@@ -59,6 +59,6 @@
 ![qase.io](https://img.shields.io/badge/qase.io-090909?style=social) 
 ![Sitechco](https://img.shields.io/badge/Sitechco-090909?style=social) 
  
-- :mailbox:Контактная информация: 
+- Контактная информация: 
 - Email : maksim.kolesnikov3355@gmail.com
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30">](https://t.me/HitryDmitry33)
+- Ссылка на телеграм t.me/makskolesnikov5555
