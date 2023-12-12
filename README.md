@@ -1,16 +1,12 @@
-# Портфолио: инженер по тестированию
+# Колесников Максим - инженер QA
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100"/>
-</div>
-
-
-### Обо мне :
-
-  
   <div id="header" align="left">
 Привет
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>   Меня зовут Максим, я начинающий тестировщик. В этом репозитории вы можете найти некоторые из моих проектов, выполненных мною во время обучения и закрепленных на практике.   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></div>
+
+#### <a href='https://rostov.hh.ru/resume/edd32603ff0c2f332e0039ed1f34705a4d3477'>Ссылка на моё резюме на HH.ru</a> 
+
+### Обо мне :
 
 ### Навыки и технологии :
  ``Qase.io``  ``Sitechko``   ``Miro``  ``Postman``  ``Swagger``  ``Mockoon``  ``SoapUI`` 
