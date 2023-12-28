@@ -71,7 +71,7 @@
 Что нужно было сделать: создать чек-лист проверок для главной страницы сайта (функциональное и нефункциональное тестирование).
 <br>
 
-> Ссылка на проект: <a href="https://docs.google.com/spreadsheets/d/1-4vAWO9rTPwmm3i6oqRL0m99JvbcAC96ugtvYlmMJ4Q/edit?usp=sharing" target="_blank">чек-лист проверок</a>
+> Ссылка на проект: <a href="https://docs.google.com/spreadsheets/d/1-4vAWO9rTPwmm3i6oqRL0m99JvbcAC96ugtvYlmMJ4Q/edit#gid=0" target="_blank">чек-лист проверок</a>
 
 Итог: создан чек-лист проверок для главной страницы сайта, включающий следующие виды тестирования:
 <li>Функциональное тестирование;</li>
