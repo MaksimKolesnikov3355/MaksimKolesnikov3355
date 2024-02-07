@@ -4,7 +4,7 @@
 Привет
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>   Меня зовут Максим, я начинающий тестировщик. В этом репозитории вы можете найти некоторые из моих проектов, выполненных мною во время обучения и закрепленных на практике.   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></div>
 
-#### <a href='https://rostov.hh.ru/resume/edd32603ff0c2f332e0039ed1f34705a4d3477'>Ссылка на моё резюме на HH.ru</a> 
+#### <a href='https://drive.google.com/file/d/17K6NibRj56yG6oSKICBAyJyb1nq0HeAL/view?usp=sharing'>Ссылка на моё резюме на HH.ru</a> 
 
 ### Обо мне :
 
